@@ -242,7 +242,7 @@ export const data: AuthorData = {
     "palette": ["#102030", "#203050", "#102040", "#204060", "#103050", "#203040", "#204070", "#405070"],
     "words": ["tfd"],
     "characters": ["Valby"],
-    "extras": ["nsfw"]
+    "extras": []
   },
   {
     "id": "PM-SVJ0C9",
