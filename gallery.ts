@@ -259,20 +259,6 @@ export const data: AuthorData = {
     "extras": []
   },
   {
-    "id": "PM-Z22VA4",
-    "title": "God of War Ragnarök",
-    "date": "22/09/2025",
-    "tbn": "https://i.ibb.co/fVK1m7kr/God-of-War-Ragnarok-22-09-2025-16-51-41-63.png",
-    "src": "https://i.ibb.co/LDqk4fx9/God-of-War-Ragnarok-22-09-2025-16-51-41-63.png",
-    "width": 5120,
-    "height": 2880,
-    "dominantColor": "#384352",
-    "palette": ["#304050", "#203040", "#303050", "#304060", "#305060", "#405070", "#405060", "#203050"],
-    "words": ["gowr"],
-    "characters": ["Kratos", "Atreus"],
-    "extras": []
-  },
-  {
     "id": "PM-A6PE0K",
     "title": "The First Descendant",
     "date": "02/09/2025",
@@ -439,35 +425,6 @@ export const data: AuthorData = {
     "words": ["tfd"],
     "characters": ["Ines"],
     "extras": []
-  },
-  {
-    "id": "PM-CHD46O",
-    "title": "God of War",
-    "date": "09/08/2025",
-    "tbn": "https://i.ibb.co/HvJmfwJ/God-of-War-2025-08-09-19-48-22-92.png",
-    "src": "https://i.ibb.co/XBwmr0w/God-of-War-2025-08-09-19-48-22-92.png",
-    "width": 1215,
-    "height": 2160,
-    "dominantColor": "#777675",
-    "palette": ["#301010", "#503030", "#402020", "#502020", "#302010", "#301000", "#401010"],
-    "words": ["gow"],
-    "characters": ["Kratos"],
-    "extras": []
-  },
-  {
-    "id": "PM-APKF70",
-    "title": "God of War",
-    "date": "08/08/2025",
-    "tbn": "https://i.ibb.co/G4mYKmbH/God-of-War-2025-08-08-12-48-31-98.png",
-    "src": "https://i.ibb.co/pBqVtq9h/God-of-War-2025-08-08-12-48-31-98.png",
-    "width": 3791,
-    "height": 1625,
-    "dominantColor": "#454d58",
-    "palette": ["#304050", "#80a0b0", "#7090a0", "#405060", "#70a0b0", "#203040", "#608090", "#6080a0"],
-    "words": ["gow"],
-    "characters": ["Kratos", "Atreus"],
-    "extras": [],
-    "description": "The beginning of the path — a father's lesson, a son's journey."
   },
   {
     "id": "PM-8LCHLO",
