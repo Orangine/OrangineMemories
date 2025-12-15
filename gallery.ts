@@ -805,20 +805,6 @@ export const data: AuthorData = {
     "words": ["er"],
     "characters": [],
     "extras": []
-  },
-  {
-    "id": "PM-QT9VQB",
-    "title": "Baldur's Gate 3",
-    "date": "09/05/2024",
-    "tbn": "https://i.ibb.co/HDtTdS95/Baldur-s-Gate-3-2024-05-09-14-20-12-00.jpg",
-    "src": "https://i.ibb.co/3ypmz3Pg/Baldur-s-Gate-3-2024-05-09-14-20-12-00.jpg",
-    "width": 2603,
-    "height": 2603,
-    "dominantColor": "#302b40",
-    "palette": ["#102030", "#101030", "#202040", "#403060", "#102040", "#302050", "#201030", "#302040"],
-    "words": ["bg3"],
-    "characters": ["Emperor"],
-    "extras": []
   }
 ]
 };
