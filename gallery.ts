@@ -1,12 +1,4 @@
-
-
 import { AuthorData } from '../types';
-
-/*
-  Este arquivo pode ser hospedado no GitHub.
-  O sistema irá ler o objeto 'author' abaixo e usá-lo para configurar
-  o cabeçalho, ícone, fundo e redes sociais da galeria.
-*/
 
 export const data: AuthorData = {
   author: {
