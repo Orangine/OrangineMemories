@@ -34,6 +34,48 @@ export const data: AuthorData = {
   ],
   images: [
   {
+    "id": "PM-UJB1IV",
+    "title": "Where Winds Meet",
+    "date": "19/12/2025",
+    "tbn": "https://i.ibb.co/nsXHZhGY/PM-UJB1-IV-thumb.jpg",
+    "src": "https://i.ibb.co/GQN5gMhH/PM-UJB1-IV-source.png",
+    "width": 2160,
+    "height": 3840,
+    "dominantColor": "#1b181d",
+    "palette": ["#18161b", "#654840", "#95715f", "#3f3131", "#b19676", "#4b4a54", "#84848c", "#4c5454"],
+    "words": ["wwm"],
+    "characters": [],
+    "extras": []
+  },
+  {
+    "id": "PM-X2VBUD",
+    "title": "Where Winds Meet",
+    "date": "09/12/2025",
+    "tbn": "https://i.ibb.co/Xf7ZBh18/PM-X2-VBUD-thumb.jpg",
+    "src": "https://i.ibb.co/0yNYbN8V/PM-X2-VBUD-source.png",
+    "width": 2160,
+    "height": 3840,
+    "dominantColor": "#272621",
+    "palette": ["#b78e79", "#26241c", "#7b5844", "#536ca9", "#364566", "#8b9eb3", "#566a5c", "#9c3a44"],
+    "words": ["wwm"],
+    "characters": [],
+    "extras": []
+  },
+  {
+    "id": "PM-Z7Y9ZR",
+    "title": "Where Winds Meet",
+    "date": "08/12/2025",
+    "tbn": "https://i.ibb.co/QvptYTXx/PM-Z7-Y9-ZR-thumb.jpg",
+    "src": "https://i.ibb.co/1t85Hmr3/PM-Z7-Y9-ZR-source.png",
+    "width": 2160,
+    "height": 3840,
+    "dominantColor": "#2b282d",
+    "palette": ["#c4977b", "#2a262b", "#78514c", "#b6362a", "#4a4f5f", "#585e6b", "#908b8c", "#93948c"],
+    "words": ["wwm"],
+    "characters": [],
+    "extras": []
+  },
+  {
     "id": "PM-DECJ3P",
     "title": "Where Winds Meet",
     "date": "02/12/2025",
