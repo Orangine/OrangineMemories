@@ -540,20 +540,6 @@ export const data: AuthorData = {
     "extras": []
   },
   {
-    "id": "PM-JYOC57",
-    "title": "The First Descendant",
-    "date": "28/03/2025",
-    "tbn": "https://i.ibb.co/L76mGdn/The-First-Descendant-2025-03-28-23-52-27-00.jpg",
-    "src": "https://i.ibb.co/mWtkx56/The-First-Descendant-2025-03-28-23-52-27-00.jpg",
-    "width": 2592,
-    "height": 4608,
-    "dominantColor": "#a9adac",
-    "palette": ["#102030", "#605040", "#a0a080", "#203040", "#504030", "#b0c0a0", "#d0c0a0", "#b0b090"],
-    "words": ["tfd"],
-    "characters": ["Serena"],
-    "extras": []
-  },
-  {
     "id": "PM-7IJM8A",
     "title": "The First Descendant",
     "date": "08/03/2025",
