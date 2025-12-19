@@ -23,15 +23,6 @@ export const data: AuthorData = {
   "featuredImageId": "PM-LFH8YU",
   "galleryStyle": "masonry"
 },
-  collections: [
-    {
-      id: 'winds-of-china',
-      title: 'Winds of China',
-      description: 'Uma viagem visual pelas paisagens de Where Winds Meet.',
-      coverImageId: 'PM-DECJ3P',
-      imageIds: ['PM-DECJ3P', 'PM-GQF9C4', 'PM-BTCGUD', 'PM-PNZHMF', 'PM-WCKPO3', 'PM-0MOWYG', 'PM-83X8DP', 'PM-BOOR3P']
-    }
-  ],
   images: [
   {
     "id": "PM-UJB1IV",
