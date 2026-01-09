@@ -25,6 +25,20 @@ export const data: AuthorData = {
 },
   images: [
   {
+    "id": "PM-ATKP2A",
+    "title": "Where Winds Meet",
+    "date": "09/01/2026",
+    "tbn": "https://i.ibb.co/zVb7NRJN/PM-ATKP2-A-thumb.jpg",
+    "src": "https://i.ibb.co/xVpskgk/PM-ATKP2-A-source.jpg",
+    "width": 2160,
+    "height": 3840,
+    "dominantColor": "#161515",
+    "palette": ["#94786e", "#151414", "#58453f", "#332926", "#686667", "#3c3c3c", "#5d5c64", "#3b343c"],
+    "words": ["wwm"],
+    "characters": [],
+    "extras": []
+  },
+  {
     "id": "PM-UJB1IV",
     "title": "Where Winds Meet",
     "date": "19/12/2025",
