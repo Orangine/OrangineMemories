@@ -18,7 +18,7 @@ export const data: AuthorData = {
       "url": "https://x.com/OranginePlace"
     }
   ],
-  "allowDownloads": false,
+  "allowDownloads": true,
   "bannerStyle": "standard",
   "featuredImageId": "PM-LFH8YU",
   "galleryStyle": "masonry"
