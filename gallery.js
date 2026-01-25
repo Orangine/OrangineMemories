@@ -25,6 +25,34 @@ export const data: AuthorData = {
 },
   images: [
   {
+    "id": "PM-56OP4S",
+    "title": "Arknights: Endfield",
+    "date": "25/01/2026",
+    "tbn": "https://i.ibb.co/nNvKqD32/PM-56-OP4-S-thumb.jpg",
+    "src": "https://i.ibb.co/dwqDtzgX/PM-56-OP4-S-source.jpg",
+    "width": 2100,
+    "height": 2100,
+    "dominantColor": "#1e2940",
+    "palette": ["#19243b", "#a7aeb3", "#9a847c", "#5f6f80", "#6487ae", "#36557a", "#62535b", "#16a8c1"],
+    "words": [],
+    "characters": ["Avywenna"],
+    "extras": []
+  },
+  {
+    "id": "PM-JTK3Q6",
+    "title": "Arknights: Endfield",
+    "date": "25/01/2026",
+    "tbn": "https://i.ibb.co/B50HYdFN/PM-JTK3-Q6-thumb.jpg",
+    "src": "https://i.ibb.co/nqCKxRDK/PM-JTK3-Q6-source.jpg",
+    "width": 3840,
+    "height": 2160,
+    "dominantColor": "#2f3d55",
+    "palette": ["#22324b", "#afc8d6", "#a69996", "#758698", "#7c9fbf", "#4e698d", "#766266", "#54b4c4"],
+    "words": [],
+    "characters": ["Avywenna"],
+    "extras": []
+  },
+  {
     "id": "PM-XW6GT4",
     "title": "Where Winds Meet",
     "date": "14/01/2026",
