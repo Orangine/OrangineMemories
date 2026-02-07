@@ -262,7 +262,8 @@ export const data: AuthorData = {
     "words": ["wwm"],
     "characters": [],
     "extras": [],
-    "description": "Vagando por Qinghe em meio ao vento e às flores."
+    "description": "Vagando por Qinghe em meio ao vento e às flores.",
+    "original": "https://i.ibb.co/N6BMjgNQ/PM-83-X8-DP-before.jpg"
   },
   {
     "id": "PM-0BEUM8",
