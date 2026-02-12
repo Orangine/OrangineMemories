@@ -27,7 +27,7 @@ export const data: AuthorData = {
   {
     "id": "PM-HIIEZS",
     "title": "The First Descendant",
-    "date": "12/02/2026",
+    "date": "10/02/2026",
     "tbn": "https://i.ibb.co/gFLbnMNH/PM-HIIEZS-thumb.jpg",
     "src": "https://i.ibb.co/7JHZtrM1/PM-HIIEZS-source.jpg",
     "width": 3761,
