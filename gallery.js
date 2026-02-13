@@ -456,15 +456,17 @@ export const data: AuthorData = {
     "id": "PM-254MCE",
     "title": "The First Descendant",
     "date": "02/09/2025",
-    "tbn": "https://i.ibb.co/Csph1pzW/The-First-Descendant-2025-09-02-23-43-30-95.png",
-    "src": "https://i.ibb.co/HpLnFLVX/The-First-Descendant-2025-09-02-23-43-30-95.png",
+    "tbn": "https://i.ibb.co/yFfBs89n/PM-254-MCE-thumb.jpg",
+    "src": "https://i.ibb.co/S4PY1FGJ/PM-254-MCE-source.jpg",
     "width": 5120,
     "height": 2160,
-    "dominantColor": "#797061",
-    "palette": ["#403020", "#504030", "#605030", "#807050", "#706040", "#908060", "#605040", "#907050"],
+    "dominantColor": "#443a2d",
+    "palette": ["#d5ccb8", "#43392d", "#8f7a5a", "#a29d84", "#736c58", "#97938c", "#b86151", "#6c635c"],
     "words": ["tfd"],
     "characters": ["Serena"],
-    "extras": []
+    "extras": [],
+    "delete_url": "https://ibb.co/bMPwycD7/e18f7e5506bf74e0d09de290257daf5c",
+    "thumb_delete_url": "https://ibb.co/Mk25NRvD/e9ae633b31eaa150bdb1b81d6348ff69"
   },
   {
     "id": "PM-SWDZWU",
