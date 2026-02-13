@@ -472,15 +472,17 @@ export const data: AuthorData = {
     "id": "PM-SWDZWU",
     "title": "The First Descendant",
     "date": "02/09/2025",
-    "tbn": "https://i.ibb.co/G305jGb9/The-First-Descendant-2025-09-02-23-46-06-15.png",
-    "src": "https://i.ibb.co/5x6RVCfk/The-First-Descendant-2025-09-02-23-46-06-15.png",
+    "tbn": "https://i.ibb.co/xqQ2q0qC/PM-SWDZWU-thumb.jpg",
+    "src": "https://i.ibb.co/Dg1cmJcX/PM-SWDZWU-source.jpg",
     "width": 5120,
     "height": 2160,
-    "dominantColor": "#6f6454",
-    "palette": ["#403020", "#504030", "#706040", "#807050", "#605030", "#908060", "#605040", "#907050"],
+    "dominantColor": "#41382c",
+    "palette": ["#c9bca3", "#41372c", "#867355", "#9b9c89", "#99948c", "#6a635c", "#aa5347", "#6b6c5c"],
     "words": ["tfd"],
     "characters": ["Serena"],
-    "extras": []
+    "extras": [],
+    "delete_url": "https://ibb.co/FqhZcrZv/f7e53fb5d702f0bfeef1f6c8423d3616",
+    "thumb_delete_url": "https://ibb.co/zVwmVYVn/4c7be9223ead94bd00495905144e2d71"
   },
   {
     "id": "PM-QGZDVK",
