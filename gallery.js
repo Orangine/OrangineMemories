@@ -25,21 +25,6 @@ export const data: AuthorData = {
 },
   images: [
   {
-    "id": "PM-HIIEZS",
-    "title": "The First Descendant",
-    "date": "10/02/2026",
-    "tbn": "https://i.ibb.co/gFLbnMNH/PM-HIIEZS-thumb.jpg",
-    "src": "https://i.ibb.co/7JHZtrM1/PM-HIIEZS-source.jpg",
-    "width": 3761,
-    "height": 1612,
-    "dominantColor": "#68a5ad",
-    "palette": ["#65a9b2", "#2d3a41", "#276977", "#afc9c4", "#3e6a74", "#94baba", "#325c5b", "#a3ccc2"],
-    "words": [],
-    "characters": ["Dia"],
-    "extras": [],
-    "delete_url": "https://ibb.co/d0SV4kC5/e9a6a8650b3d655a9347edf4f2de43f7"
-  },
-  {
     "id": "PM-8GR7T6",
     "title": "The First Descendant",
     "date": "12/02/2026",
@@ -68,6 +53,21 @@ export const data: AuthorData = {
     "characters": ["Dia"],
     "extras": [],
     "delete_url": "https://ibb.co/ZRH5kykY/f02ec895aa959d350638caff645a957b"
+  },
+  {
+    "id": "PM-HIIEZS",
+    "title": "The First Descendant",
+    "date": "10/02/2026",
+    "tbn": "https://i.ibb.co/gFLbnMNH/PM-HIIEZS-thumb.jpg",
+    "src": "https://i.ibb.co/7JHZtrM1/PM-HIIEZS-source.jpg",
+    "width": 3761,
+    "height": 1612,
+    "dominantColor": "#68a5ad",
+    "palette": ["#65a9b2", "#2d3a41", "#276977", "#afc9c4", "#3e6a74", "#94baba", "#325c5b", "#a3ccc2"],
+    "words": [],
+    "characters": ["Dia"],
+    "extras": [],
+    "delete_url": "https://ibb.co/d0SV4kC5/e9a6a8650b3d655a9347edf4f2de43f7"
   },
   {
     "id": "PM-56OP4S",
@@ -440,15 +440,17 @@ export const data: AuthorData = {
     "id": "PM-A6PE0K",
     "title": "The First Descendant",
     "date": "02/09/2025",
-    "tbn": "https://i.ibb.co/2YmDsP6M/The-First-Descendant-2025-09-02-23-34-16-70.png",
-    "src": "https://i.ibb.co/Dgsx8kbM/The-First-Descendant-2025-09-02-23-34-16-70.png",
+    "tbn": "https://i.ibb.co/MD4CVVsq/PM-A6-PE0-K-thumb.jpg",
+    "src": "https://i.ibb.co/hJZFgZLz/PM-A6-PE0-K-source.jpg",
     "width": 3840,
     "height": 2160,
-    "dominantColor": "#746a5b",
-    "palette": ["#403020", "#504030", "#605030", "#706040", "#a09070", "#807050", "#605040", "#908060"],
+    "dominantColor": "#3e352a",
+    "palette": ["#3b3328", "#d6cfbd", "#ab946d", "#8d7b5c", "#786044", "#9b9b94", "#6a635c", "#9ca491"],
     "words": ["tfd"],
     "characters": ["Serena"],
-    "extras": []
+    "extras": [],
+    "delete_url": "https://ibb.co/zT7Vm7Qv/07683f7cf54fc85719566b4b2e727100",
+    "thumb_delete_url": "https://ibb.co/Z6PM88Vy/1baba4a0814d7a179222769f3d9be9a5"
   },
   {
     "id": "PM-254MCE",
